@@ -38,8 +38,14 @@ body{
   text-align: center;
 
   width: 100%;
-  padding: 3rem;
+  padding: 2rem;
   box-sizing: border-box;
+}
+
+@media (min-width: 400px) {
+  .card-content {
+    padding: 3rem;
+  }
 }
 
 .payment-summary {
