@@ -57,4 +57,4 @@ Once I am more confident in my Frontend abilities I will start learning about th
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DeveloperDwarf)
+- Frontend Mentor - [@yDeveloperDwarf(https://www.frontendmentor.io/profile/DeveloperDwarf)
